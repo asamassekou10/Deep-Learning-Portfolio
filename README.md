@@ -49,7 +49,7 @@ This portfolio showcases my work in ITAI 2376, a project- and lab-driven course 
 - **Creative AI:**  
   Exploring generative design and guided image synthesis through diffusion models.
 
-## 🛠Tools & Technologies  
+## Tools & Technologies  
 - PyTorch  
 - Transformers (Hugging Face, OpenAI GPT-4 API)  
 - SerpAPI, Gradio, FPDF  
